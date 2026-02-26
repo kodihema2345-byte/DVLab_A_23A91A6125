@@ -28,7 +28,11 @@ barplot(
   ylab="Mean sepal Length"
 )
 
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> f8b0c2a6ebe5db6cf16bec4824c2f29991b6ccc5
 #grouped bar chart
 #common Sepal&petal length
 
@@ -52,4 +56,8 @@ barplot(
   col= c("skyblue", "pink"),
   legend.text =TRUE,
   main="Stacked Bar chart :Sepal vs Petal"
+<<<<<<< HEAD
 )
+=======
+)
+>>>>>>> f8b0c2a6ebe5db6cf16bec4824c2f29991b6ccc5
